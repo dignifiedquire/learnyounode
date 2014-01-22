@@ -19,13 +19,14 @@ Once you have finished <b><code>learnyounode</code></b>, graduate to <b><code>[s
 
 <b><code>learnyounode</code></b> is proudly brought to you by the following hackers:
 
-
-|Rod Vagg         |[GitHub/rvagg](https://github.com/rvagg)                 |[Twitter/@rvagg](http://twitter.com/rvagg)                 |
-|Andrey Sidorov   |[GitHub/sidorares](https://github.com/sidorares)         |[Twitter/@sidorares](http://twitter.com/sidorares)         |
-|Julián Duque     |[GitHub/julianduque](https://github.com/julianduque)     |[Twitter/@julian_duque](http://twitter.com/julian_duque)   |
-|Lars-Magnus Skog |[GitHub/ralphtheninja](https://github.com/ralphtheninja) |[Twitter/@ralphtheninja](http://twitter.com/ralphtheninja) |
-|Tim Inman        |[GitHub/thehack](https://github.com/thehack)             |[Twitter/@timinman](http://twitter.com/timinman)           |
-|Dan Flettre      |[GitHub/Flet](https://github.com/Flet)                   |[Twitter/@flettre](http://twitter.com/flettre)             |
+|Name             |Github                                            |Twitter                                            |
+|-----------------|--------------------------------------------------|---------------------------------------------------|
+|Rod Vagg         |[rvagg](https://github.com/rvagg)                 |[@rvagg](http://twitter.com/rvagg)                 |
+|Andrey Sidorov   |[sidorares](https://github.com/sidorares)         |[@sidorares](http://twitter.com/sidorares)         |
+|Julián Duque     |[julianduque](https://github.com/julianduque)     |[@julian_duque](http://twitter.com/julian_duque)   |
+|Lars-Magnus Skog |[ralphtheninja](https://github.com/ralphtheninja) |[@ralphtheninja](http://twitter.com/ralphtheninja) |
+|Tim Inman        |[thehack](https://github.com/thehack)             |[@timinman](http://twitter.com/timinman)           |
+|Dan Flettre      |[Flet](https://github.com/Flet)                   |[@flettre](http://twitter.com/flettre)             |
 
 
 ## License
