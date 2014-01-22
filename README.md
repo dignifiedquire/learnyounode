@@ -17,7 +17,7 @@ Once you have finished <b><code>learnyounode</code></b>, graduate to <b><code>[s
 
 ### Contributors
 
-<b><code>learnyounode</code></b> is proudly brought to you by the following hackers:
+**`learnyounode`** is proudly brought to you by the following hackers:
 
 |Name                 |Github                                            |Twitter                                            |
 |---------------------|--------------------------------------------------|---------------------------------------------------|
